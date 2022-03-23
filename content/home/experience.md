@@ -18,12 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Technical APM, Delivery Charges/Serviceability/Locations"
+  company = "Zomato"
+  company_url = "https://www.zomato.com/"
+  location = "Gurgaon"
+  date_start = "2021-06-01"
+  date_end = "2022-03-01"
+  description = """
+- Managed logistical demand optimization products; processed 1.5 MM+ daily orders at optimal GMV/Login-hr  - Developed algorithms for monetisation service (Delivery & Surge charges, MOVs); generating $100MM+ revenue  
+- Conceptualized an event-based notification service platform for demand management; serving 4MM+ daily users    
+- Managed technical development of Locations service tech stack; improved multiple address accuracy to < 10m"""
+
+
+[[experience]]
+  title = "Technical Product Management Intern"
+  company = "Fitso by Zomato"
+  company_url = "https://www.getfitso.com/ncr"
+  location = "Gurgaon"
+  date_start = "2021-01-01"
+  date_end = "2021-05-01"
+  description = """Coordinated development of customer acquisition handling product at Fitso; increased customer conversion by 8%"""
+
+
+[[experience]]
   title = "Researcher"
   company = "Dept. of Mathematics and Statistics"
   company_url = ""
   location = "IIT-Kanpur"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = """ Completed reserach and implementation of a novel Change-point algorithm for Markov chains with [Prof. Dootika Vats](https://dvats.github.io/). Ongoing research on Kolmogorov tests for MCMC."""
 
 [[experience]]
@@ -32,7 +55,7 @@ date_format = "Jan 2006"
   company_url = "https://dvats.github.io/teaching/MTH511.html"
   location = "IIT-Kanpur"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-01-01"
 
 [[experience]]
   title = "Open Source Contributor"

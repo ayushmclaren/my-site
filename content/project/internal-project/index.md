@@ -18,8 +18,7 @@ links:
   name: Code
   url: https://github.com/ayushmclaren/cptmcmc
 url_code: ""
-url_pdf: "https://github.com/ayushmclaren/cptmcmc/blob/main/UGP_170187.pdf
-"
+url_pdf: "https://github.com/ayushmclaren/cptmcmc/blob/main/UGP_170187.pdf"
 url_slides: ""
 url_video: ""
 
