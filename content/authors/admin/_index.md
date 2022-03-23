@@ -10,17 +10,17 @@ role: Statistics | Finance | Psychology | Music | Cars | Photography
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology, Kanpur
-  url: "http://www.iitk.ac.in/"
+- name: Haas School of Business, UCB
+  url: "https://mfe.haas.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Markov Chains, Bayesian Statistics and Time series.
 
 interests:
-- Markov Chains
 - Financial Derivatives  
+- Markov Chains  
 - Bayesian Statistics  
-- Time Series.
+- Formula 1 engineering 
 
 education:
   courses:
@@ -30,6 +30,9 @@ education:
   - course: BS, Mathematics and Statistics
     institution: IIT-Kanpur
     year: 2021
+  - course: MS, Financial Engineering
+    institution: Haas School of Business, UCB
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,8 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Ayush, senior undergraduate in the [Maths and Stats](http://www.iitk.ac.in/math/) department at IIT-Kanpur. I knew exactly what love looked like, in seventh grade. Even though I hadn't met love yet, if love had wandered into my homeroom, I would've recognise it at first glance. Love arrived exactly when it was supposed to and I ended up at this wonderful department at IIT-Kanpur. 
+I am Ayush, currently a [Master's of Financial Engineering](https://mfe.haas.berkeley.edu/) candidate at Haas school of Business, UC Berkeley. I completed my Bachelor's degree from the [Maths Dept.](https://www.iitk.ac.in/math/) at IIT-Kanpur. I have gained skills in statistical research & implementation, Math, Programming and Finance through various courses, projects, internships and summer programs. I have also worked as a Technical Product Manager for the Delivery charges & Serviceability teams at [Zomato](https://www.zomato.com/) from June 2021 to Feb 2022. I am looking to apply my skills at Quantitative roles.
 
-I have been actively exploring the areas in Markov Chains, believing my way through Bayesian Statistics and evolving through Time Series. These have often mesmerised me and ignited an insatiable curiosity to learn more. I recently worked on implementing Quantile regression models for binary longitudinal data by [Prof. Arshad Rahman](https://home.iitk.ac.in/~marshad/), which culminated in the[ qbld](http://cran.r-project.org/web/packages/qbld/index.html) package on CRAN. I am currently working on Change-point algorithms, and Kolmogorov tests for Markov Chains with [Prof. Dootika Vats](http://dvats.github.io/), who is the sole reason for my love for this field. 
-
-Apart from this, I am extremely invested in the Financial markets, specifically in the derivative product space. I have been trading and investing for more than 2 years and would love to hear about your idea of the next big market phenomenon. I also have considerable experience in psychology through various courses and projects with [Prof. Devpriya Kumar](https://home.iitk.ac.in/~devpriya/index.htm)(No! I do not read minds, or do I?). Ask me anything cars, and I usually cannot shut up about [Mclaren](http://cars.mclaren.com/). I dabble with music, cooking and photography as well. Let's get coffee!
+Apart from this, I am extremely invested in the Financial markets, specifically in the derivative product space. I have been trading and investing for more than 2 years and would love to hear about your idea of the next big market phenomenon. Ask me anything cars or Formula 1, and I usually cannot shut up about [Mclaren](http://cars.mclaren.com/). I dabble with music, cooking and photography as well. Let's get coffee!
